@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1459865682",
+    "project_id": "todoset-a2526",
+    "storage_bucket": "todoset-a2526.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1459865682:android:424c495d6725322b2ef78b",
+        "android_client_info": {
+          "package_name": "com.anyanin.todoset"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1459865682-75m1giir9dpv77eimn1or2ua944ne39r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY8kh6OkhSz0obJC-Ra0ZS-fCVnNsthcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1459865682-75m1giir9dpv77eimn1or2ua944ne39r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
